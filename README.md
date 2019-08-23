@@ -1,15 +1,17 @@
-### Date created
-Include the date you created this project and README file.
+## Date created
+Aug.22 2019
 
-### Project Title
-Replace the Project Title
+## Project Title
+US bike share
 
-### Description
-Describe what your project is about and what it does
+## Description
+Analyse the bike share data of US cities : *New York*, *Chicago* and 
+*Washington*.
 
-### Files used
-Include the files used
+## Files used
+.gitignore
+README.md
+bikeshare.py
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+## Credits
+https://www.edureka.co/blog/git-tutorial/
