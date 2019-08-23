@@ -23,9 +23,9 @@ def get_filters():
                      "\n").split(": ")[0].lower()
         try:
             if city not in DATA:
-                    print("Sorry,I have no idea about {}. Entering again within 'Chicago',"
+                print("Sorry,I have no idea about {}. Entering again within 'Chicago',"
                       "'New York City' or 'Washington' again.".format(city))
-                    continue
+                continue
             else:
                 break
         except ValueError as e:
