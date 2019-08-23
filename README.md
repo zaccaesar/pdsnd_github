@@ -5,8 +5,8 @@ Aug.22 2019
 US bike share
 
 ## Description
-Analyse the bike share data of US cities : New York, Chicago and 
-Washington.
+Analyse the bike share data of US cities : *New York*, *Chicago* and 
+*Washington*.
 
 ## Files used
 .gitignore
