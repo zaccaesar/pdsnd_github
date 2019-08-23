@@ -1,17 +1,17 @@
-### Date created
+## Date created
 Aug.22 2019
 
-### Project Title
+## Project Title
 US bike share
 
-### Description
+## Description
 Analyse the bike share data of US cities : New York, Chicago and 
 Washington.
 
-### Files used
+## Files used
 .gitignore
 README.md
 bikeshare.py
 
-### Credits
+## Credits
 https://www.edureka.co/blog/git-tutorial/
